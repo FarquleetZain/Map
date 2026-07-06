@@ -1,1 +1,1 @@
-This repo contant my personal assignment
+This repo contains my personal assignment
